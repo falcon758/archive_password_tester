@@ -7,7 +7,7 @@ import argparse
 import signal
 import time
 
-parser = argparse.ArgumentParser(description='CompressedCrack', epilog='Use the -h for help')
+parser = argparse.ArgumentParser(description='testPassword', epilog='Use the -h for help')
 parser.add_argument('-i','--input', help='Insert the file path of compressed file', required=True)
 parser.add_argument('-w','--wordlist', help='Insert the file path of wordlist file', required=True)
 
