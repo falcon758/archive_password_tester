@@ -10,3 +10,7 @@ rarfile - pip install rarfile
 ## Usage
 
 python testPassword.py -i my_archive.zip -w my_wordlist
+
+## Thanks
+
+Thanks to mnismt for his contribution
